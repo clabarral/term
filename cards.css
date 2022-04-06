@@ -1,0 +1,29 @@
+.card	{
+	background-color: #BFD7EA;
+	border-radius: 60px;
+	font-size: 20px;
+	font-weight: 100;
+	font-style: normal;
+	text-align: center;
+
+}
+
+h3	{
+
+	font-size: 20px;
+	font-family: arial, serif;
+	font-weight: 300;
+
+}
+
+h5	{
+	font-size: 20px;
+	font-family: arial, sans-serif;
+	font-weight: 300;
+}
+
+p {
+	font-size: 20px;
+	font-family: arial, sans-serif;
+	font-weight: 300;
+}

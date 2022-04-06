@@ -1,0 +1,100 @@
+@import	url("button.css");
+@import url("banner.css");
+@import url("cards.css");
+@import url("footer.css");
+
+
+body {
+	
+	background-color: #E5ECF0;
+	line-height: 30px;
+	font-weight: 55;
+	text-align: center;
+	font-family: Times New Roman ;
+
+} 
+
+
+h2	{
+	color: #ab92bf;
+	font-size: 30px;
+	text-align: center;
+	font-family: "Times New Roman" ;
+
+}
+
+h4	{
+	color: #ab92bf;
+	font-size: 30px;
+	text-align: center;
+	font-family: "Times New Roman" ;
+}
+
+h6	{
+	color: #ab92bf;
+	font-size: 30px;
+	text-align: center;
+	font-family: "Times New Roman" ;
+}
+
+p {
+	font-size: 20px;
+	font-family: arial, sans-serif;
+}
+
+div {
+	background-color: #fcfcfc;
+	padding: 18px;
+	margin: 18px;
+}
+
+h1	{
+	color: deeppink;
+	font-weight: 300;
+}
+.btn-blue {
+    background: #76A8BC;
+    padding: 14px;
+    font-weight: bold;
+    text-decoration/ALIGN-CONTENT: NONE;
+    border-radius: 50px;
+    text-decoration: none;
+    display: block;
+    width: 30%;
+    margin: 8px auto;
+}
+}
+
+.btn-blue:hover {
+	background-color: #AB92BF;
+	color: blue;
+	transition: 2s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

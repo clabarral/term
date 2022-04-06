@@ -1,0 +1,21 @@
+.banner {
+	height: 60vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-self: center;
+    border-radius: 30px
+}
+
+.banner h1 {
+	color: #ab92bf;
+    text-shadow: 1px 1px 1px #f1e9da;
+    font-size: 40px
+}
+.banner h2 {
+	color: darkred;
+	text-shadow: 1px 1px 1px #000000c9;
+}
+
